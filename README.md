@@ -17,8 +17,8 @@ To write a program to find the GCD of two numbers using function.
 ```
 /*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:
+Developed by  : Sanjay S 
+RegisterNumber: 212221243002
 def gcd():
     n1=int(input())
     n2=int(input())
@@ -35,8 +35,7 @@ def gcd():
 ```
 
 ## Output:
-![image](https://github.com/sanjay5656/GCD-of-two-numbers/assets/115128955/2d1884fb-ff4d-4c14-bfa6-5df0b3241a61)
-
+![image](https://github.com/sanjay5656/GCD-of-two-numbers/assets/115128955/95bf75b3-638e-4238-8c60-1d452ff3b6b5)
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
